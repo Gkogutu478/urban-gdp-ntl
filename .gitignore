@@ -10,3 +10,34 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+
+# Scratch and diagnostic scripts
+check_*.py
+validate_results.py
+write_scripts.py
+
+# Superseded script versions
+urban_gdp_v2.py
+urban_gdp_ucdb.py
+
+# Intermediate result versions
+output/urban_gdp_shares.csv
+output/urban_gdp_shares_v2.csv
+output/urban_gdp_shares_v3.csv
+output/city_gdp_estimates.csv
+output/city_gdp_estimates_v2.csv
+
+# Duplicate figures in output folder (kept in figures/ only)
+output/FIGURE*.png
+
+# Word lock files
+~$*.docx
+
+# Downloaded readme files not authored here
+VNL_v22_readme_*.pptx
+
+# Old presentation versions in root
+Urban_GDP_NTL_Presentation.pptx
+Urban_GDP_NTL_Presentation_v3.pptx
+Urban_GDP_NTL_Working_Paper.docx
+Urban_GDP_NTL_Working_Paper _v2.docx
