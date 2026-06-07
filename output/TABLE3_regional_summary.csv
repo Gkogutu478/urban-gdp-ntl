@@ -1,0 +1,7 @@
+region,n_countries,total_cities,mean_urban_share,median_urban_share,std_urban_share,min_urban_share,max_urban_share,total_urban_gdp_bn
+Asia,48,7582,75.6,91.9,28.2,4.0,98.0,20252.5
+Latin America and the Caribbean,25,1139,73.8,78.4,23.0,13.7,98.0,4729.0
+Africa,52,2653,53.5,49.0,28.9,6.6,98.0,1818.7
+Northern America,2,372,32.4,32.4,3.3,30.0,34.7,6848.2
+Europe,38,983,31.7,26.0,18.8,8.5,74.9,5027.0
+Oceania,5,72,23.1,23.5,9.2,12.4,32.6,488.5

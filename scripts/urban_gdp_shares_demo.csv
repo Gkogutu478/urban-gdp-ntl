@@ -1,0 +1,4 @@
+country_iso3,urban_gdp_share_pct,primary_city_gdp_share_pct,primary_city_name,secondary_city_gdp_share_pct,secondary_city_name,national_gdp_bn_usd
+USA,86,9.5,New York,5.8,Los Angeles,20936.6
+DEU,75,5.1,Berlin,4.2,Munich,3846.4
+NGA,55,28,Lagos,6,Kano,432.3

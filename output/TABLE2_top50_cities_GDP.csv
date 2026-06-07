@@ -1,0 +1,51 @@
+rank,city_name,iso3,region,pop_M,area_km2,ntl_avg,gdp_bn
+1,Tokyo,JPN,Asia,33.03,5318.0,20.77,757.24
+2,Osaka [Kyoto],JPN,Asia,15.69,3158.0,18.64,672.34
+3,Seoul,KOR,Asia,21.6,2449.0,34.22,576.8
+4,New York,USA,Northern America,15.95,5384.0,32.02,561.29
+5,Los Angeles,USA,Northern America,14.28,5633.0,37.9,544.01
+6,Shanghai,CHN,Asia,24.47,3318.0,25.73,514.95
+7,Guangzhou,CHN,Asia,40.59,6622.0,18.05,422.58
+8,Beijing,CHN,Asia,17.98,2115.0,20.51,421.31
+9,Bangkok,THA,Asia,14.73,2568.0,21.25,412.21
+10,Mexico City,MEX,Latin America and the Caribbean,19.56,2114.0,40.3,398.88
+11,São Paulo,BRA,Latin America and the Caribbean,19.11,2005.0,54.73,343.94
+12,Singapore,SGP,Asia,6.92,879.0,47.12,333.2
+13,Paris,FRA,Europe,9.71,1638.0,42.29,329.68
+14,New Taipei [Taipei],TWN,Asia,8.87,1014.0,30.8,324.8
+15,Moscow,RUS,Europe,14.08,1882.0,64.83,323.84
+16,Istanbul,TUR,Asia,14.11,1340.0,43.31,302.14
+17,Chicago,USA,Northern America,6.78,3830.0,49.32,297.23
+18,Jakarta,IDN,Asia,36.31,5009.0,11.14,294.15
+19,London,GBR,Europe,9.61,1864.0,29.14,268.56
+20,Delhi [New Delhi],IND,Asia,26.66,2474.0,28.25,264.93
+21,Dubai,ARE,Asia,4.91,766.0,69.55,255.36
+22,Nagoya,JPN,Asia,7.67,2651.0,15.02,253.18
+23,Buenos Aires,ARG,Latin America and the Caribbean,13.91,1967.0,71.04,241.73
+24,Miami,USA,Northern America,5.41,3040.0,40.25,231.88
+25,Quezon City [Manila],PHL,Asia,21.69,2030.0,11.25,224.48
+26,Rio de Janeiro,BRA,Latin America and the Caribbean,9.8,1367.0,49.59,224.26
+27,Dallas,USA,Northern America,5.17,3699.0,38.73,215.35
+28,Houston,USA,Northern America,4.87,3418.0,44.02,214.27
+29,Kuala Lumpur,MYS,Asia,6.34,1328.0,37.82,206.37
+30,Riyadh,SAU,Asia,5.67,1016.0,129.6,205.93
+31,Toronto,CAN,Northern America,6.04,2019.0,47.29,189.79
+32,Suzhou,CHN,Asia,8.63,1893.0,25.34,184.84
+33,Chengdu,CHN,Asia,9.32,1326.0,24.15,178.87
+34,San Jose,USA,Northern America,4.6,1717.0,27.92,164.85
+35,Cairo,EGY,Africa,19.73,1585.0,47.07,164.21
+36,Kolkata,IND,Asia,21.62,2817.0,9.07,159.77
+37,Washington D.C.,USA,Northern America,3.37,1550.0,39.35,155.01
+38,Phoenix,USA,Northern America,3.61,2304.0,34.3,150.44
+39,Tijuana,USA,Northern America,4.44,1776.0,21.4,146.73
+40,Detroit,USA,Northern America,3.29,2545.0,34.63,146.48
+41,Lima,PER,Latin America and the Caribbean,9.27,876.0,27.36,138.98
+42,Hangzhou,CHN,Asia,7.53,1679.0,17.29,138.44
+43,Madrid,ESP,Europe,4.89,781.0,54.01,137.83
+44,Mumbai,IND,Asia,21.76,1077.0,21.11,135.33
+45,Philadelphia,USA,Northern America,3.13,1520.0,35.99,129.55
+46,Doha,QAT,Asia,1.56,380.0,125.68,129.07
+47,Santiago,CHL,Latin America and the Caribbean,6.34,720.0,52.63,128.25
+48,Jieyang,CHN,Asia,10.45,2450.0,7.93,121.09
+49,Dhaka,BGD,Asia,23.94,3248.0,3.1,120.13
+50,Melbourne,AUS,Oceania,3.47,1610.0,17.24,119.51

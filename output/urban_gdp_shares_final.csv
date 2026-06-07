@@ -1,0 +1,179 @@
+country_iso3,country_name,region,n_cities,national_gdp_2020_bn,urban_gdp_share_pct,urban_gdp_2020_bn,primary_city,primary_city_gdp_share_pct,secondary_city,secondary_city_gdp_share_pct,tertiary_city,tertiary_city_gdp_share_pct
+AFG,Afghanistan,Asia,59,19.8,75.4,14.9,Kabul,30.6,Mazar i sharif,7.88,Kunduz,5.0
+AGO,Angola,Africa,56,62.3,98.0,61.1,Luanda,65.26,Lubango,4.35,Huambo,3.1
+ALB,Albania,Europe,6,15.3,70.2,10.7,Tirana,47.39,Durrës,7.88,Vlora,5.21
+ARE,United Arab Emirates,Asia,7,421.1,94.5,398.2,Dubai,60.64,Abu Dhabi,16.14,Al Ain,14.59
+ARG,Argentina,Latin America and the Caribbean,70,383.1,98.0,375.4,Buenos Aires,63.1,Rosario,3.86,Cordoba,3.84
+ARM,Armenia,Asia,3,12.6,58.6,7.4,Yerevan,50.88,Gyumri,4.98,Vanadzor,2.71
+AUS,Australia,Oceania,27,1330.5,32.6,434.0,Melbourne,8.98,Sydney,8.98,Perth,4.2
+AUT,Austria,Europe,6,433.3,18.2,78.6,Vienna,13.7,Graz,1.42,Linz,1.37
+AZE,Azerbaijan,Asia,17,42.6,92.6,39.5,Baku,61.75,Sumgayit,9.63,Ganja,6.68
+BDI,Burundi,Africa,42,3.1,41.0,1.3,Bujumbura,,Gitega,,Ngozi,
+BEL,Belgium,Europe,12,521.9,19.2,100.4,Brussels,6.3,Antwerp,5.32,Liège,1.87
+BEN,Benin,Africa,23,15.7,39.9,6.2,Cotonou,19.03,Porto-Novo,7.7,Parakou,3.28
+BFA,Burkina Faso,Africa,41,18.0,37.8,6.8,Ouagadougou,21.29,Bobo-Dioulasso,8.68,Koudougou,1.1
+BGD,Bangladesh,Asia,296,324.2,98.0,317.8,Dhaka,37.05,Comilla,12.59,Chattogram,5.42
+BGR,Bulgaria,Europe,8,68.6,55.2,37.8,Sofia,32.22,Varna,6.36,Plovdiv,5.84
+BHR,Bahrain,Asia,1,34.6,98.0,33.9,Manama,98.0,,,,
+BHS,Bahamas,Latin America and the Caribbean,1,,,4.7,Nassau,,,,,
+BIH,Bosnia and Herzegovina,Europe,5,20.2,30.7,6.2,Sarajevo,16.68,Banja Luka,5.81,Tuzla,3.25
+BLR,Belarus,Europe,15,60.3,74.9,45.1,Minsk,30.48,Homel,5.94,Brest,5.85
+BLZ,Belize,Latin America and the Caribbean,1,,,0.4,Belize City,,,,,
+BOL,Bolivia,Latin America and the Caribbean,12,36.9,78.4,28.9,El Alto [La Paz],25.92,Santa Cruz de la Sierra,23.23,Cochabamba,16.6
+BRA,Brazil,Latin America and the Caribbean,349,1444.7,98.0,1415.8,São Paulo,23.81,Rio de Janeiro,15.52,Belo Horizonte,3.46
+BRB,Barbados,Latin America and the Caribbean,1,,,2.4,Bridgetown,,,,,
+BRN,Brunei,Asia,1,12.1,16.0,1.9,Bandar Seri Begawan,15.97,,,,
+BTN,Bhutan,Asia,1,2.5,4.0,0.1,Chang bangdu,,,,,
+BWA,Botswana,Africa,7,17.8,25.7,4.6,Gaborone,,Francistown,,Kanye,
+CAF,Central African Republic,Africa,8,2.3,23.1,0.5,Bangui,19.59,Badokwa,0.85,Bria,0.67
+CAN,Canada,Northern America,48,1643.4,34.7,569.8,Toronto,11.55,Montreal,5.7,Vancouver,2.87
+CHE,Switzerland,Europe,16,752.2,14.9,111.9,Zurich,4.65,Basel,2.48,Geneva,2.4
+CHL,Chile,Latin America and the Caribbean,33,252.9,72.8,184.2,Santiago,50.7,Viña del Mar [Valparaíso],4.56,Concepción,2.95
+CHN,China,Asia,1849,14722.8,47.9,7052.1,Shanghai,3.5,Guangzhou,2.87,Beijing,2.86
+CIV,Côte d'Ivoire,Africa,35,61.3,34.1,20.9,Abidjan,21.49,Bouaké,2.85,Korhogo,1.95
+CMR,Cameroon,Africa,55,40.4,69.7,28.2,Yaounde,25.42,Douala,16.2,Bamenda,3.19
+COD,Democratic Republic of the Congo,Africa,160,49.0,40.1,19.7,Kinshasa,16.72,Lubumbashi,4.79,Mbuji-Mayi,1.59
+COG,Republic of Congo,Africa,10,12.3,73.9,9.1,Brazzaville,45.11,Pointe-Noire,20.82,Mongo Kamba,2.95
+COL,Colombia,Latin America and the Caribbean,92,270.2,98.0,264.8,Bogota,41.88,Medellín,8.6,Cali,7.01
+COM,Comoros,Africa,2,1.2,39.7,0.5,Moroni,,Fomboni,,,
+CPV,Cape Verde,Africa,2,1.9,6.6,0.1,Mindelo,,João Teves,,,
+CRI,Costa Rica,Latin America and the Caribbean,3,61.8,43.7,27.0,San José,38.83,Cartago,4.03,Barranca,0.81
+CUB,Cuba,Latin America and the Caribbean,19,107.4,76.0,81.6,Havana,35.91,Santiago de Cuba,6.59,Camagüey,5.19
+CUW,Curaçao,Latin America and the Caribbean,1,,,3.9,Willemstad,,,,,
+CYP,Cyprus,Asia,3,24.7,41.5,10.2,Nicosia,,Limassol,,Larnaca,
+CZE,Czech Republic,Europe,12,245.3,24.1,59.1,Prague,13.96,Brno,2.88,Ostrava,1.86
+DEU,Germany,Europe,87,3846.4,17.8,685.3,Dortmund,2.58,Berlin,1.83,Hamburg,1.4
+DJI,Djibouti,Africa,4,3.4,32.1,1.1,Djibouti,,Sancal,,Tadjoura,
+DNK,Denmark,Europe,4,356.1,15.8,56.3,Copenhagen,12.26,Aarhus,1.51,Odense,1.24
+DOM,Dominican Republic,Latin America and the Caribbean,16,78.8,92.6,73.0,Santo Domingo,58.6,Santiago de los Caballeros,10.27,La Romana,3.53
+DZA,Algeria,Africa,96,145.2,98.0,142.3,Algiers,29.7,Oran,6.92,Constantine,3.72
+ECU,Ecuador,Latin America and the Caribbean,31,107.4,84.3,90.6,Quito,30.72,Guayaquil,26.19,Cuenca,3.79
+EGY,Egypt,Africa,190,361.9,98.0,354.6,Cairo,45.38,Alexandria,11.34,Faiyum,2.08
+ERI,Eritrea,Africa,14,2.1,10.4,0.2,Asmara,5.68,Massawa,2.7,Keren,0.48
+ESH,Western Sahara,Africa,2,,,0.9,Dakhla,,Boujdour,,,
+ESP,Spain,Europe,72,1281.5,41.8,535.4,Madrid,10.76,Barcelona,8.18,Valencia,4.09
+EST,Estonia,Europe,2,30.6,25.6,7.9,Tallinn,21.95,Tartu,3.7,,
+ETH,Ethiopia,Africa,500,107.6,38.1,41.0,Addis Ababa,10.73,Adama,0.79,Bahir Dar,0.72
+FIN,Finland,Europe,6,271.2,9.9,26.8,Helsinki,7.54,Tampere,0.63,Oulu,0.59
+FJI,Fiji,Oceania,1,4.4,31.7,1.4,Suva,31.67,,,,
+FRA,France,Latin America and the Caribbean,76,2707.1,24.6,666.7,Paris,12.18,Lyon,1.18,Marseille,0.96
+GAB,Gabon,Africa,5,15.3,63.1,9.7,Libreville,49.47,Port-Gentil,9.22,Point Denis,2.05
+GBR,United Kingdom,Europe,138,2764.2,30.7,847.4,London,9.72,Birmingham,2.0,Manchester,1.94
+GEO,Georgia,Asia,5,15.9,51.0,8.1,Tbilisi,36.47,Batumi,5.27,Kutaisi,5.16
+GHA,Ghana,Africa,59,72.4,53.7,38.8,Accra,29.86,Kumasi,10.08,Takoradi [Sekondi-Takoradi],2.49
+GIN,Guinea,Africa,18,15.7,22.2,3.5,Conakry,13.94,Kindia,1.56,Nzérékoré,1.09
+GMB,Gambia,Africa,4,2.0,56.0,1.1,Serrekunda,49.79,Brikama,3.41,Yundum,1.89
+GNB,Guinea-Bissau,Africa,3,1.5,49.3,0.7,Bissau,,Gabú,,Bafatá,
+GNQ,Equatorial Guinea,Africa,2,10.0,98.0,9.8,Bata,58.92,Malabo,39.08,,
+GRC,Greece,Europe,10,188.8,53.1,100.2,Athens,41.77,Thessaloniki,5.65,Patras,1.3
+GTM,Guatemala,Latin America and the Caribbean,48,77.0,68.0,52.3,Guatemala City,44.84,Quetzaltenango,2.56,San José Pinula,2.12
+GUY,Guyana,Latin America and the Caribbean,2,5.5,13.7,0.8,Georgetown,7.23,Sparendaam [Paradise],6.49,,
+HND,Honduras,Latin America and the Caribbean,13,23.8,56.5,13.5,San Pedro Sula,19.62,Tegucigalpa,19.3,La Ceiba,4.62
+HRV,Croatia,Europe,6,57.2,41.2,23.6,Zagreb,24.42,Split,6.76,Rijeka,5.33
+HTI,Haiti,Latin America and the Caribbean,23,8.4,93.7,7.9,Port-au-Prince,50.49,Gonaïves,7.56,Cap-Haitien,7.52
+HUN,Hungary,Europe,11,155.8,42.2,65.8,Budapest,31.53,Debrecen,1.87,Miskolc,1.54
+IDN,Indonesia,Asia,389,1058.7,98.0,1037.5,Jakarta,27.78,Surabaya,8.17,Bandung,6.13
+IND,India,Asia,3154,2623.0,98.0,2570.5,Delhi [New Delhi],10.1,Kolkata,6.09,Mumbai,5.16
+IRL,Ireland,Europe,5,425.9,10.8,45.9,Dublin,,Cork,,Blanchardstown,
+IRN,Iran,Asia,181,191.7,98.0,187.9,Tehran,40.32,Isfahan,5.32,Mashhad,4.24
+IRQ,Iraq,Asia,80,166.8,98.0,163.4,Baghdad,33.64,Erbil,6.69,Basra,5.87
+ISL,Iceland,Europe,1,21.7,14.7,3.2,Reykjavik,,,,,
+ISR,Israel,Asia,9,407.1,22.6,92.1,Tel Aviv,15.93,Haifa,2.29,Beer Sheva,1.14
+ITA,Italy,Europe,91,1897.5,21.5,407.1,Naples,3.88,Milan,3.62,Rome,2.89
+JAM,Jamaica,Latin America and the Caribbean,4,13.8,57.3,7.9,Kingston,46.44,Montego Bay,5.75,Mandeville,2.7
+JOR,Jordan,Asia,9,43.8,93.7,41.0,Amman,74.62,Irbid,10.48,Aqaba,1.96
+JPN,Japan,Asia,109,5057.8,49.9,2523.7,Tokyo,14.97,Osaka [Kyoto],13.29,Nagoya,5.01
+KAZ,Kazakhstan,Asia,27,171.1,72.6,124.2,Almaty,16.29,Nur-Sultan,12.02,Aktobe,4.98
+KEN,Kenya,Africa,45,101.0,47.5,48.0,Nairobi,29.54,Mombasa,7.08,Kisumu,0.82
+KGZ,Kyrgyzstan,Asia,9,7.7,66.1,5.1,Bishkek,,Osh,,Jalalabat,
+KHM,Cambodia,Asia,11,26.7,35.6,9.5,Phnom Penh,23.09,Siem Reap,2.97,Battambang,2.59
+KOR,South Korea,Asia,39,1637.9,58.2,953.0,Seoul,35.22,Busan,5.13,Daegu,4.24
+KWT,Kuwait,Asia,4,105.9,98.0,103.8,Kuwait City,91.99,Al Jahra,2.24,Jaber Al-Ahmad,2.12
+LAO,Laos,Asia,4,18.7,16.7,3.1,Vientiane,12.23,Thakhek,1.69,Pakse,1.52
+LBN,Lebanon,Asia,7,33.4,98.0,32.7,Beirut,71.4,Tripoli,9.17,Saida,7.7
+LBR,Liberia,Africa,5,3.3,33.4,1.1,Monrovia,30.05,Buchanan,1.36,Ganta,0.7
+LBY,Libya,Africa,15,25.4,98.0,24.9,Tripoli,44.07,Benghazi,16.38,Misrata,10.33
+LKA,Sri Lanka,Asia,22,80.7,98.0,79.1,Colombo,72.36,Kandy,5.88,Matara,2.65
+LSO,Lesotho,Africa,1,2.5,23.2,0.6,Maseru,,,,,
+LTU,Lithuania,Europe,6,56.5,29.8,16.9,Vilnius,12.29,Kaunas,8.97,Klaipėda,3.9
+LUX,Luxembourg,Europe,1,73.4,8.5,6.2,Luxembourg,,,,,
+LVA,Latvia,Europe,3,33.5,49.8,16.7,Riga,42.52,Liepaja,3.85,Daugavpils,3.4
+MAR,Morocco,Africa,62,114.7,80.3,92.2,Casablanca,19.9,Rabat,11.73,Agadir,5.57
+MDA,Moldova,Europe,5,13.8,17.6,2.4,Chișinău,11.12,Tiraspol,2.61,Bălți,1.55
+MDG,Madagascar,Africa,21,13.7,27.2,3.7,Antananarivo,20.73,Mahajanga,1.23,Soaindrana,0.95
+MEX,Mexico,Latin America and the Caribbean,168,1076.2,98.0,1054.6,Mexico City,37.07,Monterrey,6.23,Guadalajara,5.87
+MKD,Macedonia,Europe,7,12.3,62.0,7.6,Skopje,41.11,Bitola,4.15,Kumanovo,3.98
+MLI,Mali,Africa,16,17.3,52.2,9.0,Bamako,37.2,Sikasso,2.63,Koutiala,2.16
+MLT,Malta,Europe,1,15.0,41.0,6.1,Valletta,,,,,
+MMR,Myanmar,Asia,124,76.1,89.8,68.3,Yangon,31.05,Mandalay,9.34,Myitkyina,1.65
+MNE,Montenegro,Europe,1,5.5,15.2,0.8,Podgorica,,,,,
+MNG,Mongolia,Asia,2,14.0,98.0,13.7,Ulaanbaatar,95.81,Erdenet,2.19,,
+MOZ,Mozambique,Africa,83,14.0,75.7,10.6,Maputo,47.35,Nampula,3.94,Beira,3.46
+MRT,Mauritania,Africa,6,9.0,48.7,4.4,Nouakchott,,Nouadhibou,,Rosso Sénégal,
+MUS,Mauritius,Africa,1,11.0,72.7,8.0,Port Louis,,,,,
+MWI,Malawi,Africa,8,7.7,23.2,1.8,Lilongwe,11.22,Blantyre,5.15,Limbe,4.23
+MYS,Malaysia,Asia,37,336.7,98.0,329.9,Kuala Lumpur,61.3,Bukit Mertajam,4.38,Ipoh,3.74
+NAM,Namibia,Africa,2,10.7,30.9,3.3,Windhoek,,Walvis Bay,,,
+NER,Niger,Africa,38,13.7,25.6,3.5,Niamey,10.53,Maradi,2.26,Zinder,2.09
+NGA,Nigeria,Africa,480,432.3,94.0,406.2,Lagos,26.11,Onitsha,4.72,Abuja,3.4
+NIC,Nicaragua,Latin America and the Caribbean,18,12.6,85.0,10.7,Managua,54.55,León,5.61,Masaya,3.83
+NLD,Netherlands,Europe,37,910.0,22.7,206.7,Rotterdam [The Hague],8.28,Amsterdam,3.72,Utrecht,0.84
+NOR,Norway,Europe,4,366.0,13.3,48.6,Oslo,9.06,Stavanger,1.86,Bergen,1.39
+NPL,Nepal,Asia,22,33.7,38.6,13.0,Kathmandu,18.89,Itahari,3.67,Biratnagar,3.14
+NZL,New Zealand,Oceania,8,212.5,23.5,49.9,Auckland,,Christchurch,,Hillcrest,
+OMN,Oman,Asia,11,76.3,57.4,43.8,Seeb,17.5,Al Ghubra,12.87,Salalah,8.7
+PAK,Pakistan,Asia,283,263.7,98.0,258.4,Karachi,25.74,Lahore,18.0,Rawalpindi [Islamabad],4.12
+PAN,Panama,Latin America and the Caribbean,6,52.9,79.6,42.1,Panama City,48.18,Nuevo Arraiján,7.48,Colón,6.94
+PER,Peru,Latin America and the Caribbean,50,202.0,97.3,196.6,Lima,68.8,Arequipa,5.65,Trujillo,3.31
+PHL,Philippines,Asia,93,361.5,85.5,309.1,Quezon City [Manila],62.1,Cebu City,3.72,Angeles [San Fernando],1.75
+PNG,Papua New Guinea,Oceania,35,25.2,12.4,3.1,Port Moresby,4.76,Lae,1.24,Madang,0.9
+POL,Poland,Europe,47,596.1,26.3,156.7,Katowice,6.01,Warsaw,5.33,Gdansk,1.61
+PRI,Puerto Rico,Latin America and the Caribbean,3,,,26.8,Río Piedras [San Juan],,Ponce,,Caguas,
+PRK,North Korea,Asia,90,16.0,80.7,12.9,Pyongyang,24.37,Chŏngjin,4.39,Hamhung,4.08
+PRT,Portugal,Europe,9,228.5,36.0,82.3,Lisbon,22.87,Porto,9.25,Póvoa de Varzim,0.77
+PRY,Paraguay,Latin America and the Caribbean,9,35.4,64.5,22.9,Asuncion,47.08,Ciudad del Este,12.3,Encarnacion,1.77
+PSE,Palestina,Asia,7,15.6,98.0,15.2,Jerusalem,,Gaza,,Hebron,
+QAT,Qatar,Asia,4,144.4,98.0,141.5,Doha,89.37,Al Wakrah,3.07,Ras Laffan,3.01
+ROU,Romania,Europe,29,249.5,40.6,101.4,Bucharest,15.6,Timișoara,2.09,Cluj-Napoca,1.91
+RUS,Russia,Europe,209,1483.5,60.4,896.1,Moscow,21.83,Saint Petersburg,5.5,Tyumen,0.98
+RWA,Rwanda,Africa,7,10.3,19.9,2.1,Kigali,17.28,Musanze,0.96,Muhanga,0.49
+SAU,Saudi Arabia,Asia,53,700.1,98.0,686.1,Riyadh,29.41,Jeddah,16.54,Dammam,10.75
+SDN,Sudan,Africa,98,30.9,98.0,30.3,Khartoum,56.04,Port Sudan,3.71,Wad Madanī,2.97
+SEN,Senegal,Africa,33,24.9,76.0,18.9,Dakar,39.14,Touba,8.09,MBour,4.23
+SGP,Singapore,Asia,1,340.0,98.0,333.2,Singapore,98.0,,,,
+SLB,Solomon Islands,Oceania,1,0.8,15.5,0.1,Honiara,15.47,,,,
+SLE,Sierra Leone,Africa,9,4.0,60.0,2.4,Freetown,32.65,Bo,8.06,Kenema,6.05
+SLV,El Salvador,Latin America and the Caribbean,9,24.6,80.6,19.8,San Salvador,57.71,Lourdes,4.77,Santa Ana,4.73
+SOM,Somalia,Africa,33,7.6,14.1,1.1,Mogadishu,4.93,Hargeisa,2.43,Burao,1.2
+SRB,Serbia,Europe,13,53.3,36.3,19.4,Belgrade,20.67,Novi Sad,3.88,Niš,2.47
+SSD,South Sudan,Africa,39,4.6,98.0,4.5,Juba,19.76,Wau,11.19,Bor,10.57
+STP,São Tomé and Príncipe,Africa,1,,,0.2,São Tomé,,,,,
+SUR,Suriname,Latin America and the Caribbean,1,3.5,71.0,2.5,Paramaribo,71.04,,,,
+SVK,Slovakia,Europe,6,105.2,17.8,18.7,Bratislava,9.65,Košice,4.04,Žilina,1.22
+SVN,Slovenia,Europe,2,53.5,13.9,7.4,Ljubljana,11.73,Maribor,2.18,,
+SWE,Sweden,Europe,12,541.2,13.4,72.3,Stockholm,7.16,Gothenburg,2.4,Malmö,0.99
+SWZ,Swaziland,Africa,2,4.5,13.6,0.6,Manzini,,Matsapha,,,
+SYR,Syria,Asia,24,21.0,98.0,20.6,Damascus,34.85,Aleppo,19.32,Homs,11.34
+TCD,Chad,Africa,42,11.8,90.5,10.7,N'Djamena,41.23,Abéché,5.37,Moundou,5.14
+TGO,Togo,Africa,20,7.6,56.3,4.3,Lomé,,Sokodé,,Atakpamé,
+THA,Thailand,Asia,44,499.7,98.0,489.7,Bangkok,82.49,Chonburi,1.87,Phuket,1.2
+TJK,Tajikistan,Asia,16,8.2,62.0,5.1,Dushanbe,,Khujand,,Kulob,
+TKM,Turkmenistan,Asia,10,45.2,59.5,26.9,Ashgabat,28.32,Mary,10.79,Turkmenabat,5.99
+TLS,Timor-Leste,Asia,1,2.0,23.3,0.5,Dili,,,,,
+TTO,Trinidad and Tobago,Latin America and the Caribbean,4,21.7,58.9,12.8,Port of Spain,34.19,San Fernando,13.51,Arima,5.99
+TUN,Tunisia,Africa,26,39.4,98.0,38.6,Tunis,40.98,Sfax,14.36,Sousse,9.21
+TUR,Turkey,Asia,135,720.1,97.6,703.2,Istanbul,41.96,Ankara,7.86,Izmir,7.72
+TWN,Taiwan,Asia,21,668.5,98.0,655.2,New Taipei [Taipei],48.58,Kaohsiung,15.78,Taichung,12.45
+TZA,Tanzania,Africa,44,63.2,64.8,41.0,Dar es Salaam,39.63,Mwanza,3.27,Arusha,3.19
+UGA,Uganda,Africa,29,37.4,22.5,8.4,Kampala,16.67,Jinja,0.68,Iganga,0.58
+UKR,Ukraine,Europe,78,155.6,68.1,106.0,Kyiv,16.98,Kharkiv,5.35,Donetsk,4.78
+URY,Uruguay,Latin America and the Caribbean,6,53.6,56.4,30.3,Montevideo,46.71,Las Piedras,2.3,Ciudad de la Costa,2.27
+USA,United States,Northern America,324,20936.6,30.0,6278.4,New York,2.68,Los Angeles,2.6,Chicago,1.42
+UZB,Uzbekistan,Asia,56,57.9,94.1,54.5,Tashkent,44.53,Samarkand,5.29,Namangan,4.67
+VEN,Venezuela,Latin America and the Caribbean,77,47.3,98.0,46.3,Caracas,22.45,Maracaibo,15.57,Barcelona,5.69
+VNM,Vietnam,Asia,163,271.2,89.0,241.3,Ho Chi Minh City,41.41,Hanoi,13.42,Haiphong,2.19
+XKO,Kosovo,Europe,7,,,3.3,Pristina,,Prizren,,Mitrovicë,
+YEM,Yemen,Asia,89,21.6,91.2,19.7,Sana'a,31.56,Hodeidah,7.78,Ta'izz,7.37
+ZAF,South Africa,Africa,77,419.0,60.4,253.2,Johannesburg,25.15,Cape Town,7.77,Durban,6.39
+ZMB,Zambia,Africa,46,18.1,98.0,17.7,Lusaka,44.54,Kitwe,9.55,Ndola,7.83
+ZWE,Zimbabwe,Africa,29,18.6,31.1,5.8,Harare,19.84,Bulawayo,4.37,Chitungwiza,1.84

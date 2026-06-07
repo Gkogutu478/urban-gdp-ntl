@@ -1,0 +1,20 @@
+country_iso3,country_name,n_cities,national_gdp_2020_bn,urban_gdp_share_pct,urban_gdp_2020_bn,primary_city,primary_city_gdp_share_pct,secondary_city,secondary_city_gdp_share_pct
+AGO,Angola,56,62.3,98.0,61.1,Luanda,65.26,Lubango,4.35
+SSD,South Sudan,39,4.6,98.0,4.5,Juba,19.76,Wau,11.19
+ZMB,Zambia,46,18.1,98.0,17.7,Lusaka,44.54,Kitwe,9.55
+MOZ,Mozambique,83,14.0,75.7,10.6,Maputo,47.35,Nampula,3.94
+TZA,Tanzania,44,63.2,64.8,41.0,Dar es Salaam,39.63,Mwanza,3.27
+ZAF,South Africa,77,419.0,60.4,253.2,Johannesburg,25.15,Cape Town,7.77
+KEN,Kenya,45,101.0,47.5,48.0,Nairobi,29.54,Mombasa,7.08
+BDI,Burundi,42,3.1,41.0,1.3,Bujumbura,,Gitega,
+ETH,Ethiopia,500,107.6,38.1,41.0,Addis Ababa,10.73,Adama,0.79
+DJI,Djibouti,4,3.4,32.1,1.1,Djibouti,,Sancal,
+ZWE,Zimbabwe,29,18.6,31.1,5.8,Harare,19.84,Bulawayo,4.37
+NAM,Namibia,2,10.7,30.9,3.3,Windhoek,,Walvis Bay,
+MDG,Madagascar,21,13.7,27.2,3.7,Antananarivo,20.73,Mahajanga,1.23
+BWA,Botswana,7,17.8,25.7,4.6,Gaborone,,Francistown,
+MWI,Malawi,8,7.7,23.2,1.8,Lilongwe,11.22,Blantyre,5.15
+UGA,Uganda,29,37.4,22.5,8.4,Kampala,16.67,Jinja,0.68
+RWA,Rwanda,7,10.3,19.9,2.1,Kigali,17.28,Musanze,0.96
+SOM,Somalia,33,7.6,14.1,1.1,Mogadishu,4.93,Hargeisa,2.43
+ERI,Eritrea,14,2.1,10.4,0.2,Asmara,5.68,Massawa,2.7
