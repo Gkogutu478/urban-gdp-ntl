@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "urban-gdp-ntl: Estimating the Contribution of Cities to National GDP Using Nighttime Lights"
+authors:
+  - family-names: Ogutu
+    given-names: George
+    affiliation: "University of Nairobi, Department of Earth & Climate Sciences"
+    orcid: ""
+version: 1.0.0
+date-released: 2026-06-07
+doi: 10.5281/zenodo.20579691
+repository-code: "https://github.com/1989George/urban-gdp-ntl"
+license: MIT
+abstract: >
+  Estimates the share of urban centres in national GDP for 170 countries 
+  and 12,818 cities using VIIRS nighttime lights, GHS Urban Centre Database,
+  and World Bank national GDP anchors. Random Forest model CV R² = 0.789.
+  Global mean urban GDP share: 56.7%. Estimated global urban GDP: USD 39.2 trillion.
+keywords:
+  - nighttime lights
+  - urban economics
+  - GDP estimation
+  - geospatial analysis
+  - nighttime lights
+  - GHS-UCDB
+  - SDG 11
+  - Kenya
+  - Africa
